@@ -4,3 +4,6 @@
 [submodule "bitstamp"]
 	path = bitstamp
 	url = https://github.com/jambtc/bitstamp.git
+[submodule "binance"]
+	path = binance
+	url = https://github.com/jambtc/binance.git
